@@ -2,8 +2,12 @@
 
 HTML, CSS, JavaScript로 만든 화성시문화관광재단 리뉴얼 프로젝트 입니다.
 
+
+
 ## 🔗 Deploy
 https://khj544.dothome.co.kr/
+
+
 
 ## 📌 About Project
 화성시문화관광재단 웹사이트를 리뉴얼한 프로젝트입니다.
@@ -13,10 +17,12 @@ https://khj544.dothome.co.kr/
 이에 따라 사용자 경험 개선과 시각적 완성도를 높이기 위해 리뉴얼을 진행했습니다.
 
 
+
 ## 🛠 Tech Stack
 - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 
 
 ## 📄 Planning Document
@@ -25,12 +31,6 @@ https://khj544.dothome.co.kr/
 👉 [기획서 보러가기](https://www.miricanvas.com/v/156mzna)
 
 
-## 🎨 Design Document
-화성시문화관광재단 리뉴얼 프로젝트의 UI 디자인 문서입니다.  
-Figma를 활용하여 와이어프레임부터 비주얼 디자인, 데스크탑·모바일 반응형 레이아웃까지 설계했습니다.
-
-
-👉 [디자인 보러가기](https://www.figma.com/design/BsUkUKtFTYLOj7xpB3CPl9/%ED%99%94%EC%84%B1%EC%8B%9C%EB%AC%B8%ED%99%94%EA%B4%80%EA%B4%91%EC%9E%AC%EB%8B%A8_%EB%A6%AC%EB%89%B4%EC%96%BC%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%94%94%EC%9E%90%EC%9D%B8?node-id=0-1&t=KfWb2pdXqx2tZhEB-1)
 
 ## 🎨 Design Document
 화성시문화관광재단 리뉴얼 프로젝트의 UI 디자인 문서입니다.  
@@ -52,6 +52,7 @@ Figma를 활용하여 와이어프레임부터 비주얼 디자인, 데스크탑
 - 반응형 웹 레이아웃 제작 (Desktop / Tablet / Mobile)
 
 
+
 ## 🧩 Scope of work
 본 프로젝트는 개인 프로젝트로 전 과정을 단독으로 진행했습니다.
 
@@ -59,6 +60,7 @@ Figma를 활용하여 와이어프레임부터 비주얼 디자인, 데스크탑
 - 디자인 : UI 레이아웃 및 스타일 설계
 - 개발 : Desktop / Mobile 두 가지 디바이스 버전 구현
 - HTML, SCSS, JavaScript를 활용한 인터랙션 및 레이아웃 제작
+
 
 
 ## 📂 Project Structure
@@ -71,6 +73,7 @@ Figma를 활용하여 와이어프레임부터 비주얼 디자인, 데스크탑
 &nbsp;┗ 📄 sub1.html <br> 
 &nbsp;┗ 📄 sub2.html <br> 
 &nbsp;┗ 📄 sub3.html <br> 
+
 
 
 ## 📸 Screenshot
@@ -96,12 +99,12 @@ Figma를 활용하여 와이어프레임부터 비주얼 디자인, 데스크탑
 
 
 
-
 ## 💡 What I Learned
 - 공공기관 웹사이트 정보 구조를 고려한 레이아웃 설계 경험
 - 반응형 웹 제작 과정에서 다양한 화면 대응 방법 학습
 - 슬라이드 및 캐러셀 UI 구현 경험
 - 실제 서비스 리뉴얼 프로젝트 흐름 경험
+
 
 
 ## 🚀 Getting Started
