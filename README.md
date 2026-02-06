@@ -25,6 +25,13 @@ https://khj544.dothome.co.kr/
 👉 [기획서 보러가기](https://www.miricanvas.com/v/156mzna)
 
 
+## 🎨 Design Document
+화성시문화관광재단 리뉴얼 프로젝트의 UI 디자인 문서입니다.  
+Figma를 활용하여 와이어프레임부터 비주얼 디자인, 데스크탑·모바일 반응형 레이아웃까지 설계했습니다.
+
+
+👉 [디자인 보러가기](https://www.figma.com/design/BsUkUKtFTYLOj7xpB3CPl9/%ED%99%94%EC%84%B1%EC%8B%9C%EB%AC%B8%ED%99%94%EA%B4%80%EA%B4%91%EC%9E%AC%EB%8B%A8_%EB%A6%AC%EB%89%B4%EC%96%BC%ED%94%_)
+
 
 ## ✨ Features
 - 메인 비주얼 슬라이드 배너 구현
@@ -53,10 +60,10 @@ https://khj544.dothome.co.kr/
 ┣ 📂 css <br>
 ┣ 📂 js <br>
 ┣ 📂 images <br>
-┗ 📄 index.html 
-┗ 📄 sub1.html 
-┗ 📄 sub2.html 
-┗ 📄 sub3.html 
+&nbsp;┗ 📄 index.html <br> 
+&nbsp;┗ 📄 sub1.html <br> 
+&nbsp;┗ 📄 sub2.html <br> 
+&nbsp;┗ 📄 sub3.html <br> 
 
 
 ## 📸 Screenshot
@@ -66,18 +73,21 @@ https://khj544.dothome.co.kr/
 <table>
 <tr>
 <td align="center">
-<img src="https://github.com/user-attachments/assets/c2adab2c-40ba-4c2a-8cc7-65293207e5a5" height="350"/>
-<br/>
-<b>Before</b>
+<img src="https://github.com/user-attachments/assets/c2adab2c-40ba-4c2a-8cc7-65293207e5a5" width="400"/>
 </td>
 
 <td align="center">
-<img src="https://github.com/user-attachments/assets/982f8040-405d-43fc-8cd3-728d2178aad4" height="350"/>
-<br/>
-<b>After</b>
+<img src="https://github.com/user-attachments/assets/982f8040-405d-43fc-8cd3-728d2178aad4" width="400"/>
 </td>
 </tr>
+
+<tr>
+<td align="center"><b>Before</b></td>
+<td align="center"><b>After</b></td>
+</tr>
 </table>
+
+
 
 
 ## 💡 What I Learned
