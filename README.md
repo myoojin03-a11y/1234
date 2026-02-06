@@ -20,6 +20,13 @@ https://khj544.dothome.co.kr/
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 
+## 📄 Planning Document
+화성시 관광문화재단 리뉴얼 기획 및 분석 문서입니다.
+
+👉 [기획서 보러가기](https://www.miricanvas.com/v/156mzna)
+
+
+
 ## ✨ Features
 - 메인 비주얼 슬라이드 배너 구현
 - 행사 안내 카드 슬라이드(캐러셀) 구현
@@ -32,8 +39,54 @@ https://khj544.dothome.co.kr/
 - 반응형 웹 레이아웃 제작 (Desktop / Tablet / Mobile)
 
 
+## 🧩 Scope of work
+본 프로젝트는 개인 프로젝트로 전 과정을 단독으로 진행했습니다.
+
+- 기획 : 기존 사이트 분석 및 리뉴얼 방향 설정
+- 디자인 : UI 레이아웃 및 스타일 설계
+- 개발 : Desktop / Mobile 두 가지 디바이스 버전 구현
+- HTML, SCSS, JavaScript를 활용한 인터랙션 및 레이아웃 제작
+
+
+## 📂 Project Structure
+
+### 📦 project
+┣ 📂 css <br>
+┣ 📂 js <br>
+┣ 📂 images <br>
+┗ 📄 index.html 
+┗ 📄 sub1.html 
+┗ 📄 sub2.html 
+┗ 📄 sub3.html 
+
+
 ## 📸 Screenshot
-![main](./images/main.png)
+
+### Before / After
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/c2adab2c-40ba-4c2a-8cc7-65293207e5a5" height="350"/>
+<br/>
+<b>Before</b>
+</td>
+
+<td align="center">
+<img src="https://github.com/user-attachments/assets/982f8040-405d-43fc-8cd3-728d2178aad4" height="350"/>
+<br/>
+<b>After</b>
+</td>
+</tr>
+</table>
+
+
+## 💡 What I Learned
+- 공공기관 웹사이트 정보 구조를 고려한 레이아웃 설계 경험
+- 반응형 웹 제작 과정에서 다양한 화면 대응 방법 학습
+- 슬라이드 및 캐러셀 UI 구현 경험
+- 실제 서비스 리뉴얼 프로젝트 흐름 경험
+
 
 ## 🚀 Getting Started
 별도의 설치 없이 브라우저에서 바로 실행 가능합니다.
